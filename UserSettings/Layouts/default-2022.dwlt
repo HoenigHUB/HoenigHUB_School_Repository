@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1024
     height: 542.8
   m_ShowMode: 4
-  m_Title: Inspector
+  m_Title: Scene
   m_RootView: {fileID: 9}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -126,7 +126,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 102
+  controlID: 109
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -151,7 +151,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 126
+  controlID: 133
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -299,7 +299,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 0
-  controlID: 101
+  controlID: 108
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -371,7 +371,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/64x64
+    - Assets/BayatGames/Free Platform Game Assets/Character
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -379,16 +379,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/BayatGames/Free Platform Game Assets/Enemies/Enemies/png/64x64
+  - Assets/BayatGames/Free Platform Game Assets/Character
   m_LastFoldersGridSize: 16
   m_LastProjectPath: C:\Users\jarre\Desktop\School Stuff\Spring 2024\game design\Gaming\HoenigHUB_School_Repository
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 103.000015}
-    m_SelectedIDs: d8120000
-    m_LastClickedID: 4824
-    m_ExpandedIDs: 000000000406000048060000c40700007c090000b4090000700b0000000d0000d80d0000f00e0000c40f000050110000a01100005012000004130000581300007c13000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 70090000
+    m_LastClickedID: 2416
+    m_ExpandedIDs: 000000000406000048060000c4070000000d0000d80d0000a011000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -443,7 +443,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000d27c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -555,10 +555,10 @@ MonoBehaviour:
     m_OverlaysVisible: 1
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 320}
-      m_SelectedIDs: a486feff
-      m_LastClickedID: -96604
-      m_ExpandedIDs: f88efeff6c90feff
+      scrollPos: {x: 0, y: 48}
+      m_SelectedIDs: eec20000
+      m_LastClickedID: 49902
+      m_ExpandedIDs: ae8efeff6c90feff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -951,9 +951,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.9079506, y: 0.45365077, z: 0.10767344}
+    m_Target: {x: -0.6685176, y: 1.0291678, z: 0.3767501}
     speed: 2
-    m_Value: {x: -1.9079506, y: 0.45365077, z: 0.10767344}
+    m_Value: {x: -0.6685176, y: 1.0291678, z: 0.3767501}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1003,9 +1003,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 5.2900233
+    m_Target: 5.2518744
     speed: 2
-    m_Value: 5.2900233
+    m_Value: 5.2518744
   m_Ortho:
     m_Target: 1
     speed: 2
